@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sr-Juan
+- 👋 Hi, I’m @Juanpcsdev
 - 👀 I’m interested in computing in general.
 - 🌱 I’m currently learning Python and C.
 - 💞️ I’m looking to collaborate on whenever I can.
